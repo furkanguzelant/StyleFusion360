@@ -11,9 +11,9 @@
     <br>
     Bilkent University
     <br><br>
-    <a href="https://furkanguzelant.github.io/stylefusion360/paper.pdf">
-      <img src="https://img.shields.io/badge/Paper-PDF-green" alt="Paper PDF">
-    </a>
+    <a href="https://arxiv.org/abs/2511.22411">
+      <img src="https://img.shields.io/badge/Paper-arXiv-green" alt="Paper arXiv">
+    </a
     <a href="https://furkanguzelant.github.io/stylefusion360">
       <img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page">
     </a>
