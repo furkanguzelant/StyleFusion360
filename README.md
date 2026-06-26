@@ -137,11 +137,11 @@ https://furkanguzelant.github.io/stylefusion360/paper.pdf
 If you find StyleFusion360 useful for your research or applications, please cite:
 
 ```bibtex
-@misc{guzelant2026stylefusion360,
-  title={StyleFusion360: View-Consistent Head Stylization via Adaptive Style Modulation},
-  author={Furkan Guzelant and Arda Goktogan and Tarik Kaya and Aysegul Dundar},
-  year={2026},
-  url={https://furkanguzelant.github.io/stylefusion360/paper.pdf}
+@misc{guzelant2026stylefusion360viewconsistentheadstylization,
+      title={StyleFusion360: View-Consistent Head Stylization via Adaptive Style Modulation}, 
+      author={Furkan Guzelant and Arda Goktogan and Tarık Kaya and Aysegul Dundar},
+      year={2026},
+      url={https://arxiv.org/abs/2511.22411}, 
 }
 ```
 
