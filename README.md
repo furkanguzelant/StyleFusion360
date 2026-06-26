@@ -126,12 +126,6 @@ cd diffportrait360_release/code
 bash inference.sh
 ```
 
-## Paper
-
-The paper is available here:
-
-https://furkanguzelant.github.io/stylefusion360/paper.pdf
-
 ## BibTeX
 
 If you find StyleFusion360 useful for your research or applications, please cite:
