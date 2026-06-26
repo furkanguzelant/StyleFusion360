@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">StyleFusion360: View-Consistent Head Stylization via Adaptive Style Modulation</h2>
+  <h2 align="center">[ECCV 2026] StyleFusion360: View-Consistent Head Stylization via Adaptive Style Modulation</h2>
   <p align="center">
       <a href="https://furkanguzelant.github.io">Furkan Güzelant</a>
       ·
